@@ -1,0 +1,8 @@
+node_modules/
+artifacts/
+.tmp/
+lib/*
+!lib/identity.mjs
+index.mjs
+remote-entry.mjs
+stdio-entry.mjs
